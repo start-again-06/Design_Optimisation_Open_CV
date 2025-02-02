@@ -10,10 +10,14 @@ Uses optimization techniques to refine the shape.
 Provides a visual comparison of original vs. optimized contours.
 
 📂 Project Structure
-Main Script: Executes the contour extraction and optimization process.
-Requirements File: Lists dependencies needed for the project.
-Sample Image: Contains an example contour image for testing.
-Assets Folder: Stores additional images or data used in the project.
+Main Script:
+Executes the contour extraction and optimization process.
+Requirements File: 
+Lists dependencies needed for the project.
+Sample Image: 
+Contains an example contour image for testing.
+Assets Folder: 
+Stores additional images or data used in the project.
 
 🛠️ Installation
 Ensure you have the required software installed.
